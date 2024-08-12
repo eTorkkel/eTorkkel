@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @eTorkkel
+- 👀 I’m interested in virtuaization, automation and self-hosting
