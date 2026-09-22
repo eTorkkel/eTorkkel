@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @eTorkkel
-- 👀 I’m interested in virtuaization, automation and self-hosting
+- 👀 I’m interested in virtualization, automation and self-hosting
+- I do some web development
